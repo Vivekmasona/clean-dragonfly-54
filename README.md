@@ -1,16 +1,19 @@
-# Fresh project
+<h1 align=center > YTDL</h1>
+<h3 align=center >A simple YouTube Videos/Shorts downloader built in Deno </h3>
+<p align=center >
+<img src="https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white" >
 
-Your new Fresh project is ready to go. You can follow the Fresh "Getting
-Started" guide here: https://fresh.deno.dev/docs/getting-started
+</p>
 
-### Usage
+### Try It at https://youtube-downloader.deno.dev
 
-Make sure to install Deno: https://deno.land/manual/getting_started/installation
+### <a href="https://dash.deno.com/new?url=https://raw.githubusercontent.com/prateek-chaubey/ytdl/main/index.ts" >Deploy on Deno </a>
 
-Then start the project:
-
-```
-deno task start
-```
-
-This will watch the project directory and restart as necessary.
+### Screenshots
+<table align=center >
+<tr>
+<td><img src='./screenshots/ss1.png'  ></td>
+<td><img src='./screenshots/ss2.png'  
+</td>
+</tr>
+</table>
